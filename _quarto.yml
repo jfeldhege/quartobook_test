@@ -12,6 +12,8 @@ book:
     - chapter_1.qmd
 
 format:
+  html:
+    theme: cosmo
   pdf:
     documentclass: scrbook
     
