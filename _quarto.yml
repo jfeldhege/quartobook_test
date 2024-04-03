@@ -6,7 +6,6 @@ lang: de
 book:
   title: "Test"
   author: "Johannes Feldhege"
-  output-dir: "docs"
   output-file: "book"
   chapters:
     - index.qmd
